@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'app-tab',
@@ -7,8 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TabComponent implements OnInit {
 
-  constructor() { }
+  @Input() tabTitle = ''
+  @Input() active = false;
 
+  constructor() { }
+  
   ngOnInit(): void {
   }
 
