@@ -21,7 +21,7 @@ Clips is an online repository that hosts gaming videos and allows its users to s
 -	Tailwind styling
 -	Karma and Jasmine Unit Testing
 
-![image](https://i.ibb.co/c6kspjW/image.png)
+![image](https://i.ibb.co/GHWg2DD/image-2023-05-09-193624400.png)
 
 ## Usage
 
